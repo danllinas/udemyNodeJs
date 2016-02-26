@@ -5,7 +5,7 @@
 			"name": "Launch",
 			"type": "node",
 			"request": "launch",
-			"program": "${workspaceRoot}/C6_LetsRunSomeJavascript/Starter/app.js",
+			"program": "/Users/Danny/Desktop/Projects/udemy/nodejs/D2_FirstClassFunctions/Starter/app.js",
 			"stopOnEntry": false,
 			"args": [],
 			"cwd": "${workspaceRoot}",
